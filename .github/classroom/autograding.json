@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Auto-testing",
+      "setup": "npm ci",
+      "run": "npm test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 3,
+      "points": null
+    }
+  ]
+}
